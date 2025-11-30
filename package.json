@@ -24,7 +24,7 @@
   },
   "type": "module",
   "name": "ruststats-extension",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Millennium plugin that adds Ruststats integration to Steam profiles",
   "main": "./frontend/index.tsx",
   "author": "Ruststats Extension Team",
