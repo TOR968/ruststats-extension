@@ -21,8 +21,8 @@ export default {
 			{
 				assets: [
 					{
-						path: 'leetify-extension-*.zip',
-						label: 'Leetify Extension Plugin (${nextRelease.gitTag})',
+						path: 'ruststats-extension-*.zip',
+						label: 'RustStats Extension Plugin (${nextRelease.gitTag})',
 					},
 				],
 			},
