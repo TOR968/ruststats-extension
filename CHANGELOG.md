@@ -1,3 +1,10 @@
+# 1.0.0 (2025-11-30)
+
+
+### Features
+
+* build ([0fdd16a](https://github.com/TOR968/ruststats-extension/commit/0fdd16acf338d12f5f6a1e523a1b11feff638a84))
+
 # 1.0.0 (2025-09-03)
 
 
