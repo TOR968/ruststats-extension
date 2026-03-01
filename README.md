@@ -1,6 +1,6 @@
 # Ruststats Extension for Millennium
 
-A Millennium plugin that integrates Ruststats data and functionality directly into the Steam client, providing enhanced Rust statistics and profile information.
+A Millennium plugin that integrates Ruststats button into the Steam client profile.
 
 ## 📋 Prerequisites
 
