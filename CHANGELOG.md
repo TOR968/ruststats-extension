@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/TOR968/ruststats-extension/compare/v1.0.0...v2.0.0) (2026-03-01)
+
+
+### Features
+
+* port to lua ([afa646e](https://github.com/TOR968/ruststats-extension/commit/afa646e17f2dd941369bf0c2cf83be221d8f2704))
+
+
+### BREAKING CHANGES
+
+* complete rewrite in lua
+
 # 1.0.0 (2025-11-30)
 
 
