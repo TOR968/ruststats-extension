@@ -3,7 +3,3 @@ namespace JSX {
 		[elemName: string]: any;
 	}
 }
-
-var Millennium: {
-	findElement: (doc: Document, selector: string) => Promise<any>;
-};
