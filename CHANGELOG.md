@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/TOR968/ruststats-extension/compare/v2.1.0...v2.1.1) (2026-06-20)
+
+
+### Bug Fixes
+
+* webkit-primary injection with CDP fallback, injection-mode + browser settings ([c423d27](https://github.com/TOR968/ruststats-extension/commit/c423d271f576bf92061f6d0a2a5e474dc54b6963))
+
 # [2.1.0](https://github.com/TOR968/ruststats-extension/compare/v2.0.1...v2.1.0) (2026-06-20)
 
 
