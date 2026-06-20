@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/TOR968/ruststats-extension/compare/v2.0.1...v2.1.0) (2026-06-20)
+
+
+### Features
+
+* rewrite to CDP injection architecture and migrate to bun ([6d07890](https://github.com/TOR968/ruststats-extension/commit/6d0789034df11160ac841a4a6daca0509ad21ffd))
+
 ## [2.0.1](https://github.com/TOR968/ruststats-extension/compare/v2.0.0...v2.0.1) (2026-03-01)
 
 
