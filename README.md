@@ -2,7 +2,7 @@
 
 A Millennium plugin that integrates Ruststats button into the Steam client profile.
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before installing this plugin, ensure you have:
 
@@ -18,7 +18,7 @@ Before installing this plugin, ensure you have:
 
 ---
 
-## 🚀 Installation Guide
+## Installation Guide
 
 ### Method 1: Millennium Plugin Installer (Recommended)
 
@@ -104,7 +104,15 @@ ln -s "$(pwd)" ~/.local/share/millennium/plugins/ruststats-extension
 
 ---
 
-## 🔗 Links
+## How it works
+
+The webkit bundle ([webkit/index.tsx](webkit/index.tsx)) runs inside the Steam community
+browser and injects the button with a small vanilla-DOM function
+(`ruststatsInjectMain` in [webkit/inject.ts](webkit/inject.ts)). Settings are stored by a small Lua
+backend ([backend/main.lua](backend/main.lua)) and edited from the plugin's settings panel
+in the Steam client.
+
+## Links
 
 -   [Millennium Framework](https://github.com/SteamClientHomebrew/Millennium)
 -   [Ruststats](https://ruststats.io)
