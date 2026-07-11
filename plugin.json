@@ -3,7 +3,7 @@
 	"name": "ruststats-extension",
 	"common_name": "Ruststats Extension",
 	"description": "A Millennium plugin that adds Ruststats integration to Steam profiles.",
-	"version": "2.1.1",
+	"version": "2.1.2",
 	"backendType": "lua",
 	"webkitApiVersion": "2.0.0"
 }

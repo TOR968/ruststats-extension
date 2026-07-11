@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/TOR968/ruststats-extension/compare/v2.1.1...v2.1.2) (2026-07-11)
+
+
+### Bug Fixes
+
+* address Plugin Database review feedback ([4ae65d5](https://github.com/TOR968/ruststats-extension/commit/4ae65d5a8f6144623b5a6a7d62c88e6c02e44f7d))
+
 ## [2.1.1](https://github.com/TOR968/ruststats-extension/compare/v2.1.0...v2.1.1) (2026-06-20)
 
 
